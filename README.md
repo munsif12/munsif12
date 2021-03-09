@@ -11,5 +11,5 @@
 - ⚡ Fun fact: 🙂 <br/>
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=munsif12&&show_icons=true&title_color=blue&icon_color=blue&text_color=black&bg_color=white)
- ### <h1>Trophies :- <h1/>
-### ![Trophes](https://github-profile-trophy.vercel.app/?username=munsif12)
+ ### Trophies :-
+![Trophes](https://github-profile-trophy.vercel.app/?username=munsif12)
