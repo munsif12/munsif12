@@ -11,9 +11,8 @@
 - ⚡ Fun fact: 🙂 
 - ---
 
-| ![enter image description here](https://github-readme-stats.vercel.app/api?username=munsif12&&show_icons=true&title_color=blue&icon_color=blue&text_color=black&bg_color=white) |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munsif12&layout=compact&langs_count=5)
- |
-|--|--|
+| ![enter image description here](https://github-readme-stats.vercel.app/api?username=munsif12&&show_icons=true&title_color=blue&icon_color=blue&text_color=black&bg_color=white)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munsif12&layout=compact&langs_count=5)
+ 
 
 ### Trophies 🏆 :-
 ### ![Trophes](https://github-profile-trophy.vercel.app/?username=munsif12)
