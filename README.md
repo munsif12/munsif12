@@ -1,5 +1,5 @@
- <h1 align="center">Hello, I'm Munsif Ali Misri! 👋</h1>
- |- <h4 align="center">MERN STACK DEVELOPER | REACT IS LOVE </h4>
+- <h1 align="center">Hello, I'm Munsif Ali Misri! 👋</h1>
+### <h4 align="center">MERN STACK DEVELOPER | REACT IS LOVE </h4> 
 - 🔭 I’m currently working on MERN STACK
 - 🌱 I’m currently learning REACT JS
 - 👯 I’m looking to collaborate on React based FrontEnd projects
