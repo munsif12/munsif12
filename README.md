@@ -9,7 +9,7 @@
 , [SoloLearn-@Munsif Ali Misri](https://www.sololearn.com/profile/6483992)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 🙂 <br/>
-
+- 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=munsif12&&show_icons=true&title_color=blue&icon_color=blue&text_color=black&bg_color=white)
- ### Trophies :-
+ ### Trophies 🏆 :-
 ![Trophes](https://github-profile-trophy.vercel.app/?username=munsif12)
