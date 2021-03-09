@@ -1,4 +1,4 @@
-- 🇵🇰
+## Hello, I'm Munsif Ali Misri! 👋
 - 🔭 I’m currently working on MERN STACK
 - 🌱 I’m currently learning REACT JS
 - 👯 I’m looking to collaborate on React based FrontEnd projects
@@ -8,3 +8,5 @@
 , [SoloLearn-@Munsif Ali Misri](https://www.sololearn.com/profile/6483992)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 🙂
+<img src=" https://github-readme-stats.vercel.app/api?username=munsif12&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+"/>
