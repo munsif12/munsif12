@@ -1,5 +1,6 @@
 ### <h1 align="center">Hello, I'm Munsif Ali Misri! 👋</h1>
 ### <h4 align="center">MERN STACK DEVELOPER | REACT IS LOVE </h4> 
+### ![](https://komarev.com/ghpvc/?username=munsif12&color=blue)
 - 🔭 I’m currently working on MERN STACK
 - 🌱 I’m currently learning REACT JS
 - 👯 I’m looking to collaborate on React based FrontEnd projects
@@ -9,6 +10,7 @@
 , [SoloLearn-@Munsif Ali Misri](https://www.sololearn.com/profile/6483992)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 🙂 
+
 - ---
 
 
