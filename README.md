@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on MERN STACK
 - 🌱 I’m currently learning System Design
 - 👯 I’m looking to collaborate on MERN stack projects
-- 🤔 I’m looking for help with Nodejs
+- 🤔 I’m looking for help with System Design
 - 💬 Ask me about HTML,CSS,JS,React,Redux,ReduxThunk,Nodejs,Cronjobes,Express,Mongodb
 - 📫 How to reach me: [Linkedin-@munsif-ali-misri](https://www.linkedin.com/in/munsif-ali-misri-8191261a8/) 
 , [SoloLearn-@Munsif Ali Misri](https://www.sololearn.com/profile/6483992)
