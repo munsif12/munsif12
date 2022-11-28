@@ -1,5 +1,5 @@
 ### <h1 align="center">Hello, I'm Munsif Ali Misri! 👋</h1>
-### <h4 align="center">MERN STACK DEVELOPER At Urtasker | REACT IS LOVE </h4> 
+### <h4 align="center">Fullstack developer | Javascript | AWS | REACT IS LOVE </h4> 
 ### ![](https://komarev.com/ghpvc/?username=munsif12&color=blue)
 - 🔭 I’m currently working on MERN STACK
 - 🌱 I’m currently learning System Design
