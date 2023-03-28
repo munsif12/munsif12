@@ -20,7 +20,7 @@
 ### Streak 🔥 :-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=munsif12&currStreakNum=7A95F5&fire=orange&sideLabels=7A95F5&theme=dark)](https://git.io/streak-stats)
 ### Contribution Graph 📆 :-
-[![Munsif Ali Misri github activity graph](https://activity-graph.herokuapp.com/graph?username=munsif12&bg_color=ffffff&color=000000&theme=react-dark&area_color=7A95F5&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Munsif Ali Misri github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=munsif12&bg_color=ffffff&color=000000&theme=react-dark&area_color=7A95F5&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
